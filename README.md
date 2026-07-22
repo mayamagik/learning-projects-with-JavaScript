@@ -1,5 +1,4 @@
-
-Learning Projects
+#learning projects 
 
 A collection of small projects created while learning Python, JavaScript, HTML, CSS, SQL, and graphical user interface development. The repository includes browser-based exercises as well as a larger vehicle inventory application with database integration.
 
